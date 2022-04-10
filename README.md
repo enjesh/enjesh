@@ -1,4 +1,5 @@
 - 👋 Hi, I am Elizabeth Kihuha
+- 🌍 Nairobi, Kenya 
 - 👀 I’m interested in digital marketing, all things databases and cyber security
 - 🌱 I’m currently learning about the AWS cloud, how to code, python,linux and SQL 
 - 💞️ I’m looking to collaborate on data structures
