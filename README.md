@@ -1,9 +1,10 @@
-- 👋 Hi, I am Elizabeth Kihuha
-- 🌍 Nairobi, Kenya 
-- 👀 I’m interested in digital marketing, all things databases and cyber security
-- 🌱 I’m currently learning about the AWS cloud, how to code, python,linux and SQL 
-- 💞️ I’m looking to collaborate on data structures
-- 💖 When i am not talking to computers i am busy being a hook ninjette. I make beautiful crochet items. I turn strings into beautiful things
+- 👋 Hi, I am Elizabeth Kihuha.
+- 🌍 Nairobi, Kenya.
+- 🎯 2X AWS Certified.
+- 👀 I’m interested in Software Engineering with a particular focus on DevOps.
+- 🌱 I’m currently learning about the AWS cloud, Microsoft Azure and Frontend Development.
+- 💞️ I’m looking to collaborate on these programming languages python,linux and SQL.
+- 💖 When i am not talking to computers i am busy being a hook ninjette. I make beautiful crochet items and I turn strings into beautiful things.
 - 📫 How to reach me enjesh@gmail.com
 
 <!---
