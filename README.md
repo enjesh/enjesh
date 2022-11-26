@@ -3,7 +3,7 @@
 - 🎯 2X AWS Certified.
 - 👀 I’m interested in Software Engineering with a particular focus on DevOps.
 - 🌱 I’m currently learning about the AWS cloud, Microsoft Azure and Frontend Development.
-- 💞️ I’m looking to collaborate on these programming languages python,linux and SQL.
+- 💞️ I’m looking to collaborate on these programming languages Python, Linux, JasvaScript and SQL.
 - 💖 When i am not talking to computers i am busy being a hook ninjette. I make beautiful crochet items and I turn strings into beautiful things.
 - 📫 How to reach me enjesh@gmail.com
 
