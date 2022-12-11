@@ -8,7 +8,7 @@
 - 📫 How to reach me enjesh@gmail.com
 
 
-[![Enjesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjesh&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/enjesh/github-readme-stats)
+[![Enjesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjesh&theme=transparent&show_icons=true&count_private=true)](https://github.com/enjesh/github-readme-stats)
 
 
 <!---
