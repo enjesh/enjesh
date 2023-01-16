@@ -10,10 +10,10 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
-[![Enjesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjesh&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/enjesh/github-readme-stats)
+[![Enjesh's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=enjesh&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/enjesh/github-readme-stats)
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=enjesh&layout=compact)
+![Top Languages Card](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=enjesh&layout=compact)
 
 
 <!---
